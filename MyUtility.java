@@ -162,7 +162,7 @@ public class MyUtility {
 		EXAMPLE
 		
 		Object of type String in the map is called theString with value "Abc"
-		We want to call "Abc".endsWith("c") and store return value true with the key theBool
+		We want to call theString.endsWith("c") and store return value true with the key theBool
 		
 		The instance name would be theString
 		The method name would be endsWith
